@@ -1,0 +1,1 @@
+Daje! 11.0 — Live Planner + Workout Visuali. Backup JSON prima di aggiornare. Pubblica tutti i file sullo stesso sito HTTPS della prima versione. Chiudi e riapri la PWA; in caso di cache vecchia aggiorna il sito da Chrome. I pasti offerti e gli impegni speciali valgono per il 19–25 ottobre 2026. Le illustrazioni fitness sono schematiche.
